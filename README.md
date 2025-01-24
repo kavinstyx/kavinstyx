@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gihan
-- 👀 I’m interested in Networking, Software and Cloud Computing
+- 👀 I’m interested in Networking, DevOps and Cloud Computing
 - 🌱 I’m currently learning ways of providing Cloud Solutions and Wireless Network Innovations
 
 
